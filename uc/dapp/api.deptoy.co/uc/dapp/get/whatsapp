@@ -1,0 +1,7 @@
+{
+  "data" : null,
+  "code" : 500,
+  "message" : "Request method GET  not supported ! supported method : POST!",
+  "totalPage" : null,
+  "totalElement" : null
+}

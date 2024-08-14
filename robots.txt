@@ -1,0 +1,4 @@
+<!DOCTYPE html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"><link rel="shortcut icon" href="" type=image/x-icon><title></title><script src=/static/axios.min.js></script><style>body {
+      margin: 0;
+      padding: 0;
+    }</style><link href=/static/css/app.97384635b5f45160397dfc5bb62f6799.css rel=stylesheet></head><body><div id=app></div><script type=text/javascript src=/static/js/manifest.7dc36bce78321e254069.js></script><script type=text/javascript src=/static/js/vendor.2b295df1315f4afe718d.js></script><script type=text/javascript src=/static/js/app.66bc9f716f39a8a33c06.js></script></body></html>
